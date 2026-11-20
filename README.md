@@ -26,7 +26,8 @@ Average Order Value (AOV): $1,226.04
 ---
 
 ## Key Analytical Findings
-Hardware Concentration: Computers drive 54.91% ($1.35M) of total revenue from just 8.68% of unit volume, while Accessories generate the highest unit volume (1,615 units) but only 2.97% ($72.90K) of revenue. The top 5 SKUs—led by Gaming Laptop ($432.58K) and Laptop Air 13 ($273.53K)—account for 57.73% of all revenue.
+Hardware Concentration: Computers drive 54.91% ($1.35M) of total revenue from just 8.68% of unit volume, while Accessories generate the highest unit volume (1,615 units) but only 2.97% ($72.90K) of revenue. 
+The top 5 SKUs—led by Gaming Laptop ($432.58K) and Laptop Air 13 ($273.53K)—account for 57.73% of all revenue.
 Channel Economics: Online leads total revenue ($791.54K, 32.28%), while Corporate Sales achieves the highest Average Order Value at $2,158.39 (more than 2.5x Marketplace at $838.93).
 Discount Leakage: Computers account for $110.98K (55.81%) of all discount losses. Meanwhile, Marketplace has the steepest average discount rate (8.36%) despite delivering the lowest AOV.
 Customer Retention: Returning customers generate 68.65% ($1.68M) of total revenue and spend 15.08% more per order ($1,284.00 AOV) than new customers ($1,115.76 AOV).
